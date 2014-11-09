@@ -8,11 +8,13 @@
 AlanWake                     || Alan Wake
 AoW3                         || Age of Wonders 3
 AssassinsCreed_Dx9           || Assassins Creed
+AssassinsCreedIIGame         || Assassin's Creed 2
 Astebreed                    || Astebreed
 AvP                          || Aliens vs Predator 2010
 BatmanAC                     || Batman: Arkham City GOTY
 BatmanOrigins                || Batman: Arkham Origins (Single Player)
 BFBC2Game                    || Battlefield: Bad Company 2
+Bio4                         || Resident Evil 4 PC
 bionic_commando              || Bionic Commando
 Bioshock                     || Bioshock
 Bioshock2                    || Bioshock 2
@@ -20,6 +22,7 @@ Blackguards                  || Blackguards (The Dark Eye)
 BLR                          || Blacklight: Retribution
 Borderlands                  || Borderlands
 Borderlands2                 || Borderlands 2
+bsnes                        || bsnes SNES emulator
 CastlevaniaLoSUE             || Castlevania: Lords of Shadow - Ultimate Edition
 ChildofLight                 || Child of Light
 CMOF                         || Castlevania: Lords of Shadow - Mirror of Fate HD
@@ -31,6 +34,7 @@ Configurator                 || Configurator (multiple)
 consortium                   || Consortium
 Crysis                       || Crysis & Crysis Warhead
 Crysis2                      || Crysis 2
+csgo                         || Counter-Strike: Global Offensive
 DAOrigins                    || Dragon Age: Origins
 DAOriginsConfig              || Dragon Age: Origins Configurator
 Darksiders2                  || Darksiders 2
@@ -44,22 +48,28 @@ DMC-DevilMayCry              || DmC Devil May Cry
 dota                         || Dota 2
 DragonAge2                   || Dragon Age 2
 DragonAge2*                  || Dragon Age 2 Launcher or Configurator
+Earth2160*                   || Earth 2160
 EoCApp                       || Divinity: Original Sin
 Fallout3                     || Fallout 3
 FalloutLauncher              || Fallout 3 Launcher
+FarCry2                      || FarCry 2
 fear                         || F.E.A.R.
 FEAR2                        || F.E.A.R. 2
 FEARXP                       || F.E.A.R. Extraction Point
 FEARXP2                      || F.E.A.R. Perseus Mandate
+ffxiiiimg                    || Fianl Fantasy XIII
 ffxiv                        || Final Fantasy XIV
 ffxiv*                       || Final Fantasy XIV Launcher or Configurator
+FirefallClient               || Firefall
 fr-041_debris                || "Debris" by Farbrausch
 grimrock                     || Legend of Grimrock
+grimrock2                    || Legend of Grimrock 2
 GSGameExe_DX9                || Giana Sisters: Twisted Dreams
 GSLauncher                   || Giana Sisters: Twisted Dreams Launcher
 GTAIV                        || Grand Theft Auto 4
 halo                         || Halo: Combat Evolved
 halo2                        || Halo 2
+haloce                       || Halo: Custom Edition
 hardreset                    || Hard Reset
 HawkenGame-Win32-Shipping    || Hawken
 HitmanBloodMoney             || Hitman: Blood Money
@@ -68,6 +78,7 @@ Injustice                    || Injustice: Gods Among Us
 kb                           || King's Bounty (All Versions)
 kick_win                     || Marlow Briggs
 KidGame                      || Killer is Dead
+LaMulanaWin                  || La-Mulana
 Launcher                     || Launcher (multiple)
 lcgol                        || Lara Croft and the Guardian of Light
 left4dead2                   || Left 4 Dead 2
@@ -117,6 +128,8 @@ trine2_launcher              || Trine 2 Launcher
 tru                          || Tomb Raider: Underworld
 TWFC                         || Transformers: War for Cybertron
 Valiant Hearts               || Valiant Hearts
+WalkingDead                  || The Walking Dead - Survival Instinct
 witcher2                     || The Witcher 2
-WL2                          || Wastelands 2
+WL2                          || Wasteland 2
+Wolverine                    || X-Men Origins: Wolverine
 yso_win                      || Ys Origin
